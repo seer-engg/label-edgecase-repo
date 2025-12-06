@@ -1,0 +1,1 @@
+This is a minimal note related to fix email validation.
